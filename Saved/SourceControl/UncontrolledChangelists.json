@@ -6,7 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/workprj/uePrj/ParallaxScrolling/Content/Maps/MainLevel.umap",
-				"D:/workprj/uePrj/ParallaxScrolling/Content/Blueprints/BP_BgActor.uasset"
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Blueprints/BP_BgActor.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Materials/M_TestImgOutline.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/layer_04_1920_x_1080.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/layer_02_1920_x_1080.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/layer_01_1920_x_1080.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/layer_05_1920_x_1080.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/layer_03_1920_x_1080.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Plane.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/M_Parallax1.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/BP_BgParallax1.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/F_UV_XOffset.uasset",
+				"D:/workprj/uePrj/ParallaxScrolling/Content/Texture/Bg/Parallax1/M_F_Overlap2Img.uasset"
 			]
 		}
 	]
